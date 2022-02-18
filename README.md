@@ -48,4 +48,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=lahatra3&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+<p align="center">[DAMA](https://github.com/amada10)</p>
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=amada10&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
 <p align="center"><h1>YOU.GUYS.?</h1></p>
